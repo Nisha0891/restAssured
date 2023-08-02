@@ -17,6 +17,7 @@ public class Basics {
 		JsonPath js1 = new JsonPath(gestResponse);
 		String placeId = js1.getString("");
 		Assert.assertEquals(placeId, "abc");
+		System.out.println("hello");
 		
 	}
 
