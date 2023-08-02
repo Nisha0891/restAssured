@@ -1,4 +1,4 @@
-package test.java;
+package scenarios;
 
 public class Scenario1 {
 
